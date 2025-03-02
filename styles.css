@@ -2,15 +2,15 @@ body {
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
     padding: 0;
-/*     background-color: #1a1a1a; */
-    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    background-color: #1a1a1a;
     color: #f0f0f0;
 }
 
 header {
     text-align: center;
     padding: 50px 0;
-    background: linear-gradient(135deg, #6e44ff, #c02d2d);
+/*     background: linear-gradient(135deg, #6e44ff, #c02d2d); */
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
 }
 
